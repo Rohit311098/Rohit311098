@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit
 - 💞️ I’m interested in Data Structure and Algorithm.
-- 🌱 I’m currently learning Mendix Low Code No Code Tool
+- 🌱 I’m currently learning Web development
 - 👀 I’m looking for SDE Role
 - 📫 How to reach me rajeshrohit031@gmail.com
 
